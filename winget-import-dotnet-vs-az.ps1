@@ -1,0 +1,1 @@
+winget import winget-import-dotnet-vs-az.json --wait --accept-source-agreements --accept-package-agreements --ignore-versions --ignore-unavailable 
